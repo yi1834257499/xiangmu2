@@ -1,0 +1,39 @@
+<extend name="Public:base" />
+<block name="content">
+    <div class="col-sm-9 col-sm-offset-3 col-md-10 col-lg-10 col-md-offset-2 main" id="main">
+        <form action="{:U('addHead')}" enctype="multipart/form-data" method="post" >
+            <input type="file" name="photo[]" />
+            <input type="file" name="photo[]" />
+            <input type="file" name="photo[]" />
+            <input type="file" name="photo[]" />
+            <input type="file" name="photo[]" />
+            <input type="submit" value="提交" />
+        </form>
+        <volist name="data" id="img">
+            <img class="img" style="height: 100px;" src="__ROOT__/uploads/{$img['url']}" for="{$img['id']}"/>
+        </volist>
+        <div>
+            <img id="coad" src="{:U('yanzheng')}" />
+        </div>
+        <form action="{:U('yan')}" method="post">
+            <input type="text" name="ycode"/>
+            <input type="submit"/>
+        </form>
+    </div>
+    <script type="text/javascript">
+        $(function () {
+           $(".img").click(function () {
+               var id = $(this).attr("for");
+               var url = $(this).attr("src");
+               if(confirm("确定删除？")){
+                   location.href = "{:U('delHead')}?id="+id+"&url="+url+"";
+               }
+           })
+            $("#coad").click(function () {
+                var src = $(this).attr("src");
+                var t = Math.random();
+                $(this).attr("src",src);
+            })
+        });
+    </script>
+</block>

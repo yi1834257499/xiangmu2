@@ -1,0 +1,177 @@
+[ 2017-07-04T10:32:24+08:00 ] ::1 /xiangmu2/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-07-04T14:11:00+08:00 ] ::1 /xiangmu2/index.php/Home/Index/article.html?current=2
+ERR: Think\Controller:pageT方法不存在！
+
+[ 2017-07-04T15:19:07+08:00 ] ::1 /xiangmu2/index.php/Home/Index/base
+ERR: 非法操作:base
+
+[ 2017-07-04T15:19:26+08:00 ] ::1 /xiangmu2/index.php/Home/Index/artucle
+ERR: 非法操作:artucle
+
+[ 2017-07-04T15:31:55+08:00 ] ::1 /xiangmu2/index.php/Home/Index/logout.html
+ERR: 非法操作:logout
+
+[ 2017-07-04T15:33:24+08:00 ] ::1 /xiangmu2/index.php/Home/Index/logout.html
+ERR: 非法操作:logout
+
+[ 2017-07-04T15:40:55+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=NaN
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:41:21+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=NaN
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:41:23+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=NaN
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:41:24+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=NaN
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:41:26+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=NaN
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:41:53+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=NaN
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:42:12+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.2422889262342378
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:42:19+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.8507370107609238
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:43:00+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.46750714132414894
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:43:00+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.30968253417383496
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:43:01+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.989618075444576
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:43:01+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.7165027828605153
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:43:01+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.3551213307124992
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:43:01+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.8992320597914409
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:43:01+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.271049323959337
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:43:01+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.9672019957094944
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:43:02+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.49064877909374727
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:43:02+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.39632083483221514
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:43:02+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.623519357779071
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:43:02+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.7551942738660353
+ERR: 非法操作:undefined
+
+[ 2017-07-04T15:43:02+08:00 ] ::1 /xiangmu2/index.php/Home/Index/undefined?t=0.8455201129642751
+ERR: 非法操作:undefined
+
+[ 2017-07-04T16:42:05+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 1054:Unknown column 'username' in 'field list'
+ [ SQL语句 ] : INSERT INTO `userinfo` (`username`,`password`) VALUES ('admin','111111')
+
+[ 2017-07-04T16:48:42+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 1054:Unknown column 'username' in 'field list'
+ [ SQL语句 ] : INSERT INTO `userinfo` (`username`) VALUES ('admin')
+
+[ 2017-07-04T16:49:49+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 1054:Unknown column 'username' in 'field list'
+ [ SQL语句 ] : INSERT INTO `userinfo` (`username`) VALUES ('admin')
+
+[ 2017-07-04T16:52:01+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 1054:Unknown column 'username' in 'field list'
+ [ SQL语句 ] : INSERT INTO `userinfo` (`username`) VALUES ('admin')
+
+[ 2017-07-04T16:55:28+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 1062:Duplicate entry '' for key 'uaername'
+ [ SQL语句 ] : INSERT INTO `userinfo` () VALUES ()
+
+[ 2017-07-04T17:06:24+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 模板不存在:./App/Home/View/Index/userinfo.html
+
+[ 2017-07-04T17:07:21+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 1062:Duplicate entry 'admin' for key 'uaername'
+ [ SQL语句 ] : INSERT INTO `userinfo` (`username`) VALUES ('admin')
+
+[ 2017-07-04T17:08:32+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 模板不存在:./App/Home/View/Index/userinfo.html
+
+[ 2017-07-04T17:12:01+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 1062:Duplicate entry 'admin' for key 'uaername'
+ [ SQL语句 ] : INSERT INTO `userinfo` (`username`) VALUES ('admin')
+
+[ 2017-07-04T17:12:50+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 1062:Duplicate entry 'admin' for key 'uaername'
+ [ SQL语句 ] : INSERT INTO `userinfo` (`username`) VALUES ('admin')
+
+[ 2017-07-04T17:17:44+08:00 ] ::1 /xiangmu2/index.php/Home/Index/record.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 非法操作:record
+
+[ 2017-07-04T17:19:40+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 1062:Duplicate entry '321' for key 'uaername'
+ [ SQL语句 ] : INSERT INTO `userinfo` (`username`) VALUES ('321')
+
+[ 2017-07-04T17:37:55+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 1062:Duplicate entry 'admin' for key 'uaername'
+ [ SQL语句 ] : INSERT INTO `userinfo` (`realname`,`username`,`phone`) VALUES ('fsafas','admin','fasfsaf')
+
+[ 2017-07-04T17:49:02+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 模板不存在:./App/Home/View/Index/userinfo.html
+
+[ 2017-07-04T17:49:51+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 模板不存在:./App/Home/View/Index/userinfo.html
+
+[ 2017-07-04T17:49:57+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 模板不存在:./App/Home/View/Index/userinfo.html
+
+[ 2017-07-04T17:50:49+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 模板不存在:./App/Home/View/Index/userinfo.html
+
+[ 2017-07-04T17:53:49+08:00 ] ::1 /xiangmu2/index.php/Home/Index/userinfo.html
+ERR: 模板不存在:./App/Home/View/Index/userinfo.html
+
+[ 2017-07-04T18:01:27+08:00 ] ::1 /xiangmu2/index.php/Home/Index/record.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+ERR: 非法操作:record
+
+[ 2017-07-04T18:02:27+08:00 ] ::1 /xiangmu2/index.php/Home/Index/record.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作:record
+
